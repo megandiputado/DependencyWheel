@@ -1,21 +1,12 @@
 {
-    "name":        "sylius/sylius",
+    "name":        "Blue Sky",
     "type":        "project",
-    "description": "Modern ecommerce for Symfony2",
-    "license":     "MIT",
-    "homepage":    "http://sylius.org",
+    "description": "Apps dependencies",
+  
+    
     "authors": [
         {
-            "name":     "Paweł Jędrzejewski",
-            "homepage": "http://pjedrzejewski.com"
-        },
-        {
-            "name":     "Sylius project",
-            "homepage": "http://sylius.org"
-        },
-        {
-            "name":     "Community contributions",
-            "homepage": "http://github.com/Sylius/Sylius/contributors"
+            "name":     "Megan Diputado",
         }
     ],
     "require": {
